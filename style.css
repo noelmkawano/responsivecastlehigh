@@ -34,3 +34,9 @@ a {
   padding-left: 50px;
   padding-right: 50px;
 }
+
+.boss {
+  background-image: url('http://castlehs.k12.hi.us/images/header.jpg');
+  background-size: cover;
+  height: 200px;
+}
