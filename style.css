@@ -1,0 +1,36 @@
+body {
+  color: #999;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #999;
+  list-style-type: none;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.navbar-inverse {
+  background-color: darkred;
+}
+
+.Pride {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+.well {
+  background-color: darkred;
+  border-color: darkred;
+}
+
+a {
+  padding-left: 50px;
+  padding-right: 50px;
+}
