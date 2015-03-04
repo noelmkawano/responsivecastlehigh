@@ -16,6 +16,7 @@ img {
 }
 
 .Pride {
+  /*background-image: url('#');*/
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -23,6 +24,13 @@ img {
 
 h4 {
   text-align: center;
+
+}
+
+h3 {
+  font-size: 14px;
+  margin-bottom: 0px;
+  
 }
 
 .well {
